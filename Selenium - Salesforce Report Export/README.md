@@ -1,0 +1,1 @@
+This project was created for fun. More efficient solutions are available through their official API or by using Excel directly.
